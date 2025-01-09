@@ -2,7 +2,7 @@
 
 A very simple arena roguelike using Python and Pygame. This game features procedurally generated enemies, player upgrades, and an increasing difficulty system. Survive as long as you can while upgrading your stats and defeating enemies.
 
-This was an experiment to see if I could build a game in Python (with LLM support). I found it surprisingly fun to play while testing/debugging it. There are random stat multipliers, which you are more likely to receive as your luck stat increases, so the main strategy is to be greedy and always take luck.
+This project started as an experiment to see if I could create a game in Python with the help of an LLM. To It turned out to be surprisingly fun to play, even during testing and debugging. One of the core mechanics is random stat multipliers, which become more frequent as your luck stat increases. As a result, the best strategy often involves prioritizing luck upgrades and embracing a "greedy" playstyle.
 
 ## Features
 
